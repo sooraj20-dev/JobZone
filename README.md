@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/254ed8cb-f302-4ec7-b876-798165f1a2e2" alt="JobZone Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/e32be665-d17c-45b3-a16e-5b3ff26da905" alt="JobZone Banner" width="100%" />
   <h1>💼 JobZone – Smart Job Search and Recruitment Platform</h1>
   <p>
     <strong>Connecting Job Seekers and Employers Seamlessly</strong><br/>
